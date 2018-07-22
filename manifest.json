@@ -1,7 +1,7 @@
 {
   "Name": "A Very Special Blue Chicken",
   "Author": "jackkimball",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "A mod that makes blue chickens a little more interesting.",
   "UniqueID": "jackkimball.averyspecialbluechicken",
   "EntryDll": "AVerySpecialBlueChicken.dll",
