@@ -6,5 +6,5 @@
   "UniqueID": "jackkimball.averyspecialbluechicken",
   "EntryDll": "AVerySpecialBlueChicken.dll",
   "MinimumApiVersion": "2.6-beta",
-  "UpdateKeys": []
+  "UpdateKeys": ["Nexus:2465"]
 }
